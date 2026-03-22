@@ -1,5 +1,5 @@
 import {Link} from 'react-router-dom'
-import './Index.css'
+import './Home.css'
 
 export default function Home({easterActive}){
     return(
