@@ -9,19 +9,19 @@
         {
             "modal": "#modal2",
             "className": "project2",
-            "image": "/PortfolioImages/Portfolio/AurelLogo.png"
+            "image": "./PortfolioImages/Portfolio/AurelLogo.png"
         },
     "1169934249": 
         {
             "modal": "#modal3",
             "className": "project3",
-            "image": "/PortfolioImages/Portfolio/Resume.jpg"
+            "image": "./PortfolioImages/Portfolio/Resume.jpg"
         },
     "1080427112": 
         {
             "modal": "#modal4",
             "className": "project4",
-            "image": "/PortfolioImages/Portfolio/5Bank.png"
+            "image": "./PortfolioImages/Portfolio/5Bank.png"
         }
 
 }
