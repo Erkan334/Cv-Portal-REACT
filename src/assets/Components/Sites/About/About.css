@@ -1,0 +1,76 @@
+.about-section{
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    padding: 1rem 0;;
+    background-image: url(About/barsrsind-7JbdDI-YWA4-unsplash.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.about-section.easter-bg {
+    background-image: url(/EasterEgg/Easter.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.about-section article{
+    display: flex;
+    width: 70%;
+    gap: 2rem;
+    padding: 1rem;
+    background-color: rgb(61, 61, 61);
+    border-radius: 10px;
+}
+.about-image1,
+.about-image2,
+.about-image3{
+    width: 30%;
+    height: 30vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.about-article{
+    flex-direction: row-reverse;
+}
+
+.about-image1{
+    background-image: url(/About/WebDevelopment.jpg);
+}
+.about-image2{
+    background-image: url(/About/Hiking.jpg);
+}
+.about-image3{
+    background-image: url(/About/Gym.jpg);
+}
+
+.about-section section{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    font-size: 1.3rem;
+    color: white;
+}
+
+@media (max-width: 768px){
+    .about-section article{
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        height: fit-content;
+    }
+
+    .about-image1,
+    .about-image2,
+    .about-image3{
+        width: 100%;
+        min-height: 200px;
+    }
+
+    .about-section section{
+        width: 100%;
+    }
+}

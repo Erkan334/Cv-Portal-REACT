@@ -1,0 +1,51 @@
+footer nav{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5vh;
+
+}
+
+footer ul{
+    display: flex;
+    width: 20%;
+    justify-content: space-evenly;
+    list-style: none;
+}
+
+footer li{
+    padding:0.5rem
+}
+
+footer a{
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: black
+}
+
+@media (max-width: 768px){
+    footer{
+        margin-top: 1rem;
+    }
+
+    footer ul{
+        flex-direction: column;
+    }
+}
+
+.eggStyle{
+    background-image: url(Images/EasterEgg/Easter.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.easterEgg{
+    position: absolute;
+    right: 98vw;
+    
+}
+
+#egg{
+    height: 2rem;
+}

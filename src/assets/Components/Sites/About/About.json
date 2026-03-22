@@ -1,0 +1,20 @@
+{
+    "hobbies": [
+        {
+            "title": "Web Development",
+            "description": "I’m a new full-stack developer working with .NET, and coding has quickly become one of my favorite hobbies. I like building small web apps, trying out new ideas, and figuring out how things work behind the scenes. Whether it’s improving my backend skills in ASP.NET Core or experimenting with frontend tools, I enjoy learning by building and constantly pushing myself to get better.",
+            "divName": "about-image1"
+        },
+        {
+            "title": "Outdoor-life",
+            "description": "When I’m not coding, I love spending time outdoors. Camping, hiking, and exploring new places help me disconnect from screens and recharge. There’s something special about being out in nature — whether it’s walking new trails, setting up camp in a quiet spot, or just enjoying the fresh air and open landscapes. I like the sense of freedom that comes with exploring new areas and not always knowing exactly what’s around the next corner. It challenges me in a different way and gives me a break from everyday routines. Being outside helps me clear my mind, reset, and come back with new energy and focus.",
+            "articleClass": "about-article",
+            "divName": "about-image2"
+        },
+        {
+            "title": "Relaxing",
+            "description": "When I’m at home, I like to spend my time playing guitar or working out at the gym. Playing guitar is a great way for me to relax and express creativity — I enjoy learning new songs, improving my skills, and just getting lost in the music for a while. It helps me slow down and clear my mind.  Going to the gym, on the other hand, gives me energy and structure. I like pushing myself, setting goals, and seeing progress over time. It keeps me disciplined and focused, both physically and mentally. Together, music and training give me a good balance and help me stay motivated in everyday life.",
+            "divName": "about-image3"
+        }
+    ]
+}

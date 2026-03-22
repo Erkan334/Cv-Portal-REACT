@@ -1,0 +1,54 @@
+header nav{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #ffffff;
+    font-family: "Julius Sans One", system-ui;
+}
+
+header ul{
+    display: flex;
+    list-style: none;
+    padding: 0 1rem;
+}
+
+.right{
+    justify-content: space-evenly;
+}
+
+header li{
+    font-size: 1.5rem;
+    padding: 1rem 2rem;
+    transition: 0.2s;
+}
+
+/* header li:hover{
+    background-color: #6b6b6b;
+    border-radius: 10px;
+} */
+
+header a{
+    text-decoration: none;
+    color: black;
+    padding: 0.5rem;
+    transition: 0.2s;
+}
+
+header a:hover{
+    background-color: #6b6b6b;
+    border-radius: 10px;
+}
+
+.active{
+    text-decoration: underline;
+}
+
+@media (max-width: 768px){
+    header nav{
+        flex-direction: column;
+    }
+
+    header ul{
+        flex-direction: column;
+        align-items: center ;
+    }
+}

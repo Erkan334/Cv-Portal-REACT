@@ -1,0 +1,27 @@
+{
+    "1141951813": 
+        {
+            "modal": "#modal1",
+            "className": "project1",
+            "image": "./PortfolioImages/Portfolio/HobbyRestAPI.png"
+        },
+    "1159246048": 
+        {
+            "modal": "#modal2",
+            "className": "project2",
+            "image": "/PortfolioImages/Portfolio/AurelLogo.png"
+        },
+    "1169934249": 
+        {
+            "modal": "#modal3",
+            "className": "project3",
+            "image": "/PortfolioImages/Portfolio/Resume.jpg"
+        },
+    "1080427112": 
+        {
+            "modal": "#modal4",
+            "className": "project4",
+            "image": "/PortfolioImages/Portfolio/5Bank.png"
+        }
+
+}

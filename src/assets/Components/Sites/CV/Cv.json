@@ -1,0 +1,58 @@
+{
+    "educations": [
+        {
+            "title": "Chas Academy",
+            "date": "August 2025 - June 2027",
+            "description": "I am currently studying .NET Fullstack Development at Chas Academy, where I am building a strong foundation in both backend and frontend development. The program focuses on modern technologies within the .NET ecosystem, including C#, ASP.NET Core, databases, APIs, and frontend frameworks.Through hands-on projects and real-world assignments, I am developing practical skills in building scalable web applications,working with clean code principles, and understanding the full development process from idea to deployment."
+        },
+        {
+            "title": "Centrum Vux - Natural Science",
+            "date": "October 2023 - Mars 2024",
+            "description": "I studied Natural Science and Web Development at Komvux for six months, strengthening my foundational knowledge and gaining early experience in web technologies."
+        },
+        {
+            "title": "Gymnasium - Engineering Science",
+            "date": "August 2018 - June 2021",
+            "description": "I completed the Technology Program in upper secondary school with a specialization in Engineering Science. The program provided a strong technical foundation, with a focus on problem-solving, analytical thinking, and understanding how technology and systems work. It sparked my interest in technology and laid the groundwork for my continued studies in development and programming."
+        }
+    ],
+
+    
+    "icons": [
+        {
+            "text": "C# | .NET",
+            "name": "faDev"
+        },
+        {
+            "text": "HTML",
+            "name": "faHtml5"
+        },
+        {
+            "text": "CSS",
+            "name": "faCss"
+        },
+        {
+            "text": "JS",
+            "name": "faJs"
+        },
+        {
+            "text": "REST",
+            "name": "faRest"
+        },
+        {
+            "text": "REACT",
+            "name": "faReact"
+        }
+    ],
+
+    "military": [
+        {
+            "title": "Military Service",
+            "date": "August 2021 - June 2022",
+            "description": "I completed 10 months of mandatory military service in Sweden, where I developed discipline, teamwork, and the ability to perform under pressure. The experience strengthened my sense of responsibility and taught me the importance of structure, communication, and reliability."
+        }
+    ]
+    
+}
+
+

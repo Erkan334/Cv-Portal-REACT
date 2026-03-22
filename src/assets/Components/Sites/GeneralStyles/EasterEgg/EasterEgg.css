@@ -1,0 +1,13 @@
+
+.easterDiv{
+    position: relative;
+    bottom: 3rem;
+}
+.easterButton{
+    position: absolute;
+    width: 3rem;
+    height: 3rem;
+    background-image: url("/EasterEgg/easterEgg.png");
+    background-position: center;
+    background-size: cover;
+}
