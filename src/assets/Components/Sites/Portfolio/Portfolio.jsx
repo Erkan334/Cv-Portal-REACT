@@ -69,13 +69,13 @@ export default function Portfolio({easterActive}){
                         {/* Placeholders */}
                         
                             <article className="project5">
-                                <img src="/PortfolioImages/Portfolio/404.jpg" alt="" />
+                                <img src="./PortfolioImages/Portfolio/404.jpg" alt="" />
                                 <h2>TBA</h2>
                                 <p>Future projects will be here</p>
                             </article>
 
                             <article className="project6">
-                                <img src="/PortfolioImages/Portfolio/404.jpg" alt="" />
+                                <img src="./PortfolioImages/Portfolio/404.jpg" alt="" />
                                 <h2>TBA</h2>
                                 <p>Future projects will be here</p>
                             </article>
