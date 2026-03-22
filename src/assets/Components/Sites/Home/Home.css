@@ -2,7 +2,7 @@
     border: 1px solid;
     display: flex;
     justify-content: center;
-    background-image: url("./Index/sara-oliveira-sot7LNZjnL8-unsplash.jpg");
+    background-image: url(/Index/sara-oliveira-sot7LNZjnL8-unsplash.jpg);
 }
 
 .index-main.easter-bg {
